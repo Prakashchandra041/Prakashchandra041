@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prakash Chandra</h1>
-<h3 align="center">I am a skilled Java developer with a passion for coding and problemsolving. With over one year and four months of experience as a Java developer, I am proficient in using Java to develop scalable and secure software solutions. I am committed to delivering high-quality code, meeting project deadlines, and continuously improving my skills to stay up-to-date with the latest industry trends.</h3>
+<h3 align="center">I am a skilled Java developer with a passion for coding and problem solving. With over one year and four months of experience as a Java developer, I am proficient in using Java to develop scalable and secure software solutions. I am committed to delivering high-quality code, meeting project deadlines, and continuously improving my skills to stay up-to-date with the latest industry trends.</h3>
 
 - 🌱 I’m currently learning **Microservices**
 
