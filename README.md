@@ -1,11 +1,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakash Chandra</h1>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer.A passionate learner who's always willing to learn and work across technologies and domains . I love to explore new technologies and leverage them to solve real-life problems.
+I'm a passionate Full Stack Developer from India. skilled Java developer with a passion for coding and problemsolving. With over one year and four months of experience as a Java
+developer, I am proficient in using Java to develop scalable and secure
+software solutions. I am committed to delivering high-quality code,
+meeting project deadlines, and continuously improving my skills to stay
+up-to-date with the latest industry trends.
 
 <br/>
 <br/>
 
-🌱 I’m currently learning **Data Structures and Algorithms** and **MERN Stack**.
+🌱 I’m currently learning **Microservices** and **AWS**.
 
 <a href="https://5947be88.portfolio-2vz.pages.dev/" target="_blank" rel="noopener noreferrer">
     Visit my website
